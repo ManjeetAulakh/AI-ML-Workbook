@@ -1,0 +1,62 @@
+# --- Project specific ---
+Django/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyd
+*.pdb
+*.egg-info/
+*.egg
+*.manifest
+*.spec
+
+# --- Virtual environments ---
+.venv/
+venv/
+ENV/
+env/
+.conda/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# --- Logs & Databases ---
+*.log
+*.sqlite3
+*.db
+
+# --- OS/Editor ---
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# --- IDEs ---
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# --- Build/Packaging ---
+build/
+dist/
+.eggs/
+*.egg-info/
+*.tar.gz
+*.whl
+
+# --- Archives / Data ---
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+*.csv
+*.tsv
+*.xlsx
+*.xls
